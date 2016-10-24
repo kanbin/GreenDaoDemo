@@ -13,6 +13,8 @@ import de.greenrobot.dao.query.QueryBuilder;
  * 3、包含对数据库的CRUD
  * 4、对数据库的升级
  * Created by Administrator on 2016/10/21.
+ *
+ * 我：关于数据库升级，见http://blog.csdn.net/h3c4lenovo/article/details/43566169
  */
 public class DaoManager {
     private static final String TAG = DaoManager.class.getSimpleName();
